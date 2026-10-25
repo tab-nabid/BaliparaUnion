@@ -1,0 +1,6 @@
+{
+  "name": "বালীপাড়া ইউনিয়ন স্মার্ট সেবা ও ডিরেক্টরি",
+  "description": "বালীপাড়া ইউনিয়নের গ্রামভিত্তিক অটো, সিএনজি, পরিবহন, চিকিৎসক, টেকনিশিয়ান, ব্যবসায়ীদের ডিরেক্টরি ও সরকারি ই-সেবা পোর্টাল।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
